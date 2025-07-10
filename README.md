@@ -1,2 +1,8 @@
-# cheat_sheets
-The repo is supposed to contain all the relevant cheat sheets I need for my work
+# Cheat Sheets Repository
+
+This repository contains all the cheat sheets relevant to daily work for the following topics:
+
+- Git  
+- Docker  
+- Linux Shell Commands  
+- Pytest  
