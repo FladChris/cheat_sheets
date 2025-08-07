@@ -1,8 +1,7 @@
-# Cheat Sheets Repository
+# Developer Cheat Sheets
 
-This repository contains all the cheat sheets relevant to daily work for the following topics:
+- Git: core commands & commit conventions  
+- Docker: CLI workflow essentials  
+- Linux Shell: navigation & file ops  
+- Pytest: fixtures, parametrization, coverage  
 
-- Git  
-- Docker  
-- Linux Shell Commands  
-- Pytest  
